@@ -150,6 +150,7 @@ nav:
       - Infrastructure as Code: adopting/best-practices/infrastructure-as-code.md
       - DevOps: adopting/best-practices/devops.md
       - Secret management: adopting/best-practices/secret-management.md
+      - Test: adopting/best-practices/test.md
     - Advanced setup options:
       - Installation options: adopting/setup/installing.md
       - Configuring IBM Cloud based setup: adopting/setup/ibmcloud-setup.md
