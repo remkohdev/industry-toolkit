@@ -59,3 +59,5 @@ nav:
     - What is the Industry Toolkit: overview/overview.md
   - Contributing:
     - Test: contribute/test.md
+  - Tutorial:
+    - Sample-Tutorial: contribute/sample-tutorial.md
