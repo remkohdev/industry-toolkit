@@ -6,17 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cloudnativetoolkit.dev/test/</loc>
-         <lastmod>2022-03-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://cloudnativetoolkit.dev/contribute/test/</loc>
          <lastmod>2022-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cloudnativetoolkit.dev/overview/overview/</loc>
+         <lastmod>2022-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cloudnativetoolkit.dev/tutorial/sample-tutorial/</loc>
          <lastmod>2022-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
