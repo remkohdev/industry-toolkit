@@ -59,5 +59,6 @@ nav:
     - What is the Industry Toolkit: overview/overview.md
   - Contributing:
     - Test: contribute/test.md
-  - Tutorial:
-    - Sample-Tutorial: tutorial/sample-tutorial.md
+  - Tutorials:
+    - ODI Pipeline: tutorials/odi-pipleine-tutorial.md 
+    - Sample-Tutorial: tutorials/sample-tutorial.md
