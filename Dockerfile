@@ -8,16 +8,16 @@ COPY ./ /site/
 # Python Dependencies
 RUN pip --no-cache-dir install git+https://github.com/linkchecker/linkchecker@v10.0.1#egg=linkchecker
 
-RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+#RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 
-RUN apt-get install -y nodejs
+#RUN apt-get install -y nodejs
 
 # NodeJS Dependencies
 RUN npm ci
 
 RUN npm run build
 
-FROM bitnami/nginx
+FROM quay.io/bitnami/nginx
 
 EXPOSE 8080 8443
 COPY --from=builder /site/public /app
