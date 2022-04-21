@@ -7,6 +7,11 @@ COPY ./ /site/
 
 # Python Dependencies
 RUN pip --no-cache-dir install git+https://github.com/linkchecker/linkchecker@v10.0.1#egg=linkchecker
+
+RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+
+RUN apt-get install -y nodejs
+
 # NodeJS Dependencies
 RUN npm ci
 
