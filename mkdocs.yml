@@ -60,5 +60,5 @@ nav:
   - Contributing:
     - Test: contribute/test.md
   - Tutorials:
-    - ODI Pipeline: tutorials/odi-pipleine-tutorial.md 
+    - ODI Pipeline: tutorials/odi-pipeline-tutorial.md 
     - Sample-Tutorial: tutorials/sample-tutorial.md

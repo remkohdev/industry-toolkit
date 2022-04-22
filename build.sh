@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-set -e
+#set -e
 
 cspell "docs/**/*.md"
 mkdocs build
