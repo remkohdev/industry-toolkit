@@ -10,24 +10,13 @@ RUN pip --no-cache-dir install git+https://github.com/linkchecker/linkchecker@v1
 
 FROM bitnami/nginx
 
-# Install curl
-RUN pwd
-
-USER root
-
-#RUN mkdir -p /site/public
-
-#RUN apt-get install -y curl 
-
-# Install node
 #RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 
 #RUN apt-get install -y nodejs
 
-# NodeJS Dependencies
-#RUN npm ci
+USER root
 
-#RUN npm run build
+#RUN mkdir -p /site/public
 
 #EXPOSE 8080 8443
 #COPY --from=builder /site/public /app
