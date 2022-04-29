@@ -1,10 +1,10 @@
-site_name: Cloud Native Toolkit
+site_name: Industry Toolkit
 site_description: >-
-  The Cloud-Native Toolkit is an open-source collection of assets that enable application development and support teams to deliver business value quickly using Red Hat OpenShift or Kubernetes
-site_url: https://cloudnativetoolkit.dev
-site_author: Cloud-Native Toolkit development team
+  The Industry 4.0 Toolkit is a collection of guides and tutorials that walk through the set up and installation process for various software assets related to Indutsry 4.0 Projects.
+site_url: https://jeremy-alcanzare.github.io/developer-guide/
+site_author: IBM Build Labs
 repo_name: ""
-repo_url: https://github.com/cloud-native-toolkit/developer-guide
+repo_url: https://github.com/jeremy-alcanzare/developer-guide
 docs_dir: docs
 site_dir: public
 edit_uri: edit/main/docs
@@ -57,8 +57,5 @@ nav:
   - Home: index.md
   - Overview:
     - What is the Industry Toolkit: overview/overview.md
-  - Contributing:
-    - Test: contribute/test.md
-  - Tutorials:
-    - ODI Pipeline: tutorials/odi-pipeline-tutorial.md 
-    - Sample-Tutorial: tutorials/sample-tutorial.md
+  - Guides:
+    - ODI Pipeline: guides/odi-pipeline-tutorial.md 
