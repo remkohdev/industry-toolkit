@@ -1,1 +1,3 @@
 # Industry Toolkit Overview
+
+The Industry 4.0 Toolkit is a collection of guides and tutorials written by the IBM Build Labs team that walk through the set up and installation of various software assets built for IBM's Industry 4.0 clients. The assets represented in this toolkit were selected for their applicability to a multitude of use cases within the Industry 4.0 space. Use cases for these assets are given in the introduction of the guides.
