@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cloudnativetoolkit.dev/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <loc>https://jeremy-alcanzare.github.io/developer-guide/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cloudnativetoolkit.dev/contribute/test/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <loc>https://jeremy-alcanzare.github.io/developer-guide/guides/odi-pipeline-tutorial/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cloudnativetoolkit.dev/overview/overview/</loc>
-         <lastmod>2022-04-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://cloudnativetoolkit.dev/tutorials/odi-pipeline-tutorial/</loc>
-         <lastmod>2022-04-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://cloudnativetoolkit.dev/tutorials/sample-tutorial/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <loc>https://jeremy-alcanzare.github.io/developer-guide/overview/overview/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
