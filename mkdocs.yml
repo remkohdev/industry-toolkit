@@ -58,4 +58,5 @@ nav:
   - Overview:
     - What is the Industry Toolkit: overview/overview.md
   - Guides:
-    - ODI Pipeline: guides/odi-pipeline-tutorial.md 
+    - SNO Installation: guides/sno-guide.md 
+    - ODI Pipeline: guides/odi-pipeline-guide.md 
