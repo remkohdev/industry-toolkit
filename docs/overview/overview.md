@@ -12,4 +12,4 @@ Assets include architectures, use cases, Ansible playbooks, Tekton resources and
 
 ## Guides
 
-* **ODI DevOps Pipeline** - The ODI DevOps Pipeline uses a collection of Tekton tasks intended for DevOps admins looking to setup and run an automated install of ODI onto OpenShift clusters. IBM Open Data for Industries (ODI) runs on Red Hat OpenShift and is built on the Open Subsurface Data Universe (OSDU) data foundation for the oil, gas and energy industry. ODI integrates fully with an IBM Cloud Pak for Data (CP4D) and can expedite data handling across on-prem, public cloud, multicloud or at the edge. 
+* **ODI DevOps Pipeline** - The ODI DevOps Pipeline uses a collection of Tekton tasks intended for DevOps admins looking to setup and run an automated install of ODI onto OpenShift clusters. IBM Open Data for Industries (ODI) runs on Red Hat OpenShift and is built on the Open Subsurface Data Universe (OSDU) data foundation for the oil, gas and energy industry. ODI integrates fully with an IBM Cloud Pak for Data (CP4D) and can expedite data handling across on-prem, public cloud, multicloud or at the edge.
