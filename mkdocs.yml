@@ -59,6 +59,6 @@ nav:
   - Overview:
     - What is the Industry Toolkit: overview/overview.md
   - Use Cases:
-    - Edge Data Gateway: use-cases/data-edge-gateway.md
+    - Edge Data Gateway: use-cases/edge-data-gateway.md
   - Guides:
     - ODI Pipeline: guides/odi-pipeline-tutorial.md 
