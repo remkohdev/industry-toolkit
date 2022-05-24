@@ -1,6 +1,6 @@
 site_name: Industry Toolkit
 site_description: >-
-  The Industry Toolkit is a collection of assets that enable application development and support teams to deliver business value to Industry 4.0 partners and clients.
+  The Industry Toolkit is a collection of assets that enable application development and support teams to deliver business value to Industry 4.0 partners and clients. The toolkit includes assets like Ansible artifacts, code patterns, tutorials, reference architectures and best practices.
 site_url: https://remkohdev.github.io/industry-toolkit/
 site_author: IBM Build Labs Industry
 repo_name: ""
@@ -58,5 +58,7 @@ nav:
   - Home: index.md
   - Overview:
     - What is the Industry Toolkit: overview/overview.md
+  - Use Cases:
+    - Edge Data Gateway: use-cases/data-edge-gateway.md
   - Guides:
     - ODI Pipeline: guides/odi-pipeline-tutorial.md 
