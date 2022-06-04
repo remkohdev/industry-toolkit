@@ -10,4 +10,4 @@ This use case uses a collection of Ansible playbooks that provisions a Single No
 
 ## Installation Guide
 
-See [Install single node OpenShift on Linux-KVM Virtual Server for VPC on IBM Cloud](guides/sno-kvm-vsi-vpc-ibmcloud.md).
+See [Install single node OpenShift on Linux-KVM Virtual Server for VPC on IBM Cloud](../guides/sno-kvm-vsi-vpc-ibmcloud.md).
