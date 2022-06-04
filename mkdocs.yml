@@ -1,10 +1,10 @@
 site_name: Industry Toolkit
 site_description: >-
   The Industry Toolkit is a collection of assets that enable application development and support teams to deliver business value to Industry 4.0 partners and clients. The toolkit includes assets like Ansible artifacts, code patterns, tutorials, reference architectures and best practices.
-site_url: https://remkohdev.github.io/industry-toolkit/
+site_url: https://jeremy-alcanzare.github.io/industry-toolkit/
 site_author: IBM Build Labs Industry
 repo_name: ""
-repo_url: https://github.com/remkohdev/industry-toolkit
+repo_url: https://github.com/jeremy-alcanzare/industry-toolkit
 docs_dir: docs
 site_dir: public
 edit_uri: edit/main/docs
