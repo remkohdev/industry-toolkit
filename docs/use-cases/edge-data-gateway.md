@@ -7,3 +7,7 @@ Devices on the edge can be small appliances that function as a data gateway. A e
 ## Ansible
 
 This use case uses a collection of Ansible playbooks that provisions a Single Node OpenShift cluster on Linux KVM on IBM Cloud using Red Hat Assisted Service.
+
+## Installation Guide
+
+See [Install single node OpenShift on Linux-KVM Virtual Server for VPC on IBM Cloud](guides/sno-kvm-vsi-vpc-ibmcloud.md).

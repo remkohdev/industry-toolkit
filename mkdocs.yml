@@ -61,4 +61,5 @@ nav:
   - Use Cases:
     - Edge Data Gateway: use-cases/edge-data-gateway.md
   - Guides:
-    - ODI Pipeline: guides/odi-pipeline-tutorial.md 
+    - ODI Pipeline: guides/odi-pipeline-tutorial.md
+    - Install SNO on KVM: guides/sno-kvm-vsi-vpc-ibmcloud.md
